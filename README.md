@@ -14,6 +14,6 @@ This repository contains a bunch of stuff coded in Java from "Programming Method
   
   One of the game levels required as part of our final coursework project. It's a simple clone of Space Invaders, with enemies falling down if they're shot.
   
-- **/level_014**
+- **/babeltag**
 
   Another game level for a different project, previously available on the Play Store as "BabelTag".
